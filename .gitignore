@@ -6,3 +6,4 @@ output
 .classpath
 *.log
 *.iml
+/bin

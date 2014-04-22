@@ -1,7 +1,7 @@
-unitsofmeasurement-template-bootstrap
+unitsofmeasurement-jbake
 =====================================
 
-Unitsofmeasurement Site Bootstrap Template
+Units of Measurement Web Site JBake Bootstrap Template
 
 to publish : jbake
 
