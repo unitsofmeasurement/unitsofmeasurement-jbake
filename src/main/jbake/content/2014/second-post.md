@@ -1,8 +1,10 @@
 title=Second Post
-date=2014-02-28
+date=2014-01-24
 type=post
-tags=blog, suse
+tags=java, jcp
 status=published
 ~~~~~~
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus. Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu, mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus, id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.
+Werner Keil and Leonardo Lima presented the idea of a Units of Measurement JSR to the JCP Executive Committee in Redwood Shores, CA.
+
+See [http://www.slideshare.net/keilw/sensor-web-33289394](http://www.slideshare.net/keilw/sensor-web-33289394)

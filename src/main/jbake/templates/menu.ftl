@@ -15,8 +15,29 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li><a href="/pages/projects.html">Projects</a></li>
-            <li><a href="/pages/contact.html">Contact</a></li>
+            <li><a href="/pages/about.html">About</a></li>
+            <!--li><a href="/pages/contact.html">Contact</a></li-->
+            <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="nav-header">JSR 363</li>
+                    <li><a href="https://github.com/unitsofmeasurement/unit-api">Specification (API)</a></li>
+                    <li class="divider"></li>
+                    <li><a href="https://github.com/unitsofmeasurement/unit-ri">Reference Implementation</a></li>
+                    <li><a href="https://github.com/unitsofmeasurement/unit-tck">TCK (Technical Compatibility Kit)</a></li>
+                    <li class="divider"></li>
+                    <li class="nav-header">Extensions</li>
+                    <li><a href="https://github.com/unitsofmeasurement/unit-lib">Units Libraries</a></li>
+                    <!--- li class="nav-header">Sandbox</li>
+                    <li><a href="shelter.html">Shelter</a></li -->
+                    <li class="divider"></li>
+                    <li class="nav-header">Additional Info and Links</li>
+                    <li><a href="http://jcp.org/en/jsr/detail?id=363">JSR 363 Detail Page</a></li>
+                    <li><a href="https://unitsofmeasurement.java.net">JSR 363 Project on Java.net</a></li>
+                    <li class="divider"></li>
+                    <li><a href="http://www.unitsofmeasurement.org">Unit API 0.6</a></li></li>
+                  </ul>
+                </li>
           </ul>
         
         <!-- Right navigation -->
