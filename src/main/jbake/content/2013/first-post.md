@@ -1,7 +1,7 @@
-title=First Post
+title=Pecha Kucha Night
 date=2013-12-18
 type=post
-tags=blog, java
+tags=blog, java, jcp, ec
 status=published
 ~~~~~~
 
