@@ -18,6 +18,8 @@ When working with units, developers need to understand the mathematics of units,
 and how to format and parse string representations of units. Most of this work can be consolidated into one or two Java packages, 
 which is a primary aim of this JSR. This package will help developers create safe, correct software to deal with common problem of modeling units.
 
+![alt text](/img/duke_measure1_640.jpg "Measure for Measure Duke")
+
 Units give us a way to measure the physical world. There are many different units, partly because the world has different types of properties, 
 such as length and mass, which are not interchangeable in normal physics. This type of property is sometimes called a "quantity" or a "dimension". 
 The word "dimension" fits because of the orthogonality of these properties. For example "mass" and "length" cannot be exchanged. 
@@ -43,3 +45,10 @@ because liters and gallons are units of volume, and all volumes have the dimensi
 Therefore, a measure expressed as a number of liters can be 'converted' to a number of gallons. 
 Converting measures from one system of units to another is a common problem, 
 but is subject to mathematics that can help to eliminate errors.
+
+
+*What's with Duke and that haircut?*
+
+The image refers to the Shakespeare play "Measure for Measure", 
+frequently used by presentations on JSR 363. 
+In the story a Duke disguised as a friar spies on his subjects, thus Duke became a perfect actor.
