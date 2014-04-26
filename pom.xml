@@ -127,4 +127,6 @@
                 <github.global.server>github</github.global.server>
                 <commit.message>Site update</commit.message>
         </properties>
+        <url>https://github.com/unitsofmeasurement/unitsofmeasurement.github.io</url>
+        <description>Units of Measurement Web Site JBake Source</description>
 </project>
