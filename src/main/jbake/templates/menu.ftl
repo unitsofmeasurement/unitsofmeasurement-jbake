@@ -38,6 +38,7 @@
                     <li><a href="http://www.unitsofmeasurement.org">Unit API 0.6</a></li></li>
                   </ul>
                 </li>
+                <li><a href="/pages/calendar.html">Calendar</a></li>
           </ul>
         
         <!-- Right navigation -->
