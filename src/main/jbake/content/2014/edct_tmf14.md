@@ -11,7 +11,7 @@ After a great Eclipse DemoCamp Trondheim last year, I was invited to talk about 
 
 We continued with a practical exercise of measuring a few "Pints" in the city. Interestingly after my "Measure for Measure" themed talk the pub was named "Macbeth" just like the other (probably more famous) play by William Shakespeare;-)
 
-The following day, the Force (in Newton;-D) was very strong with me, when I presented the improved version of [Heart of Glass](http://java-embedded-challenge.github.io/heart-of-glass/) from last year's JavaOne Raspberry Pi Challenge at [Trondheim Maker Faire](http://www.trondheimmakerfaire.no/en/).
+The following 2 days, the Force (in Newton;-D) was very strong with me, when I presented the improved version of [Heart of Glass](http://java-embedded-challenge.github.io/heart-of-glass/) from last year's JavaOne Raspberry Pi Challenge at [Trondheim Maker Faire](http://www.trondheimmakerfaire.no/en/).
 
 ![alt text](/img/DSCF0608_640x480.jpg "Werner and a Stormtrooper at Trondheim Maker Faire")
 
