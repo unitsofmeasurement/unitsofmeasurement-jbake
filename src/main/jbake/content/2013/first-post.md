@@ -1,7 +1,7 @@
 title=Pecha Kucha Night
 date=2013-12-18
 type=post
-tags=blog, java, jcp, ec
+tags=pechakucha, java, jcp, ec
 status=published
 ~~~~~~
 

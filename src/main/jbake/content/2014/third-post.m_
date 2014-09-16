@@ -19,10 +19,53 @@ public class HelloWorld {
 }
 ```
 
-And for `python`:
+Hello World, `python`:
 
 ```
 print("Hello, World!")
+```
+
+Hello World, `c++`:
+
+```
+#include <iostream>
+ 
+int main()
+{
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
+```
+
+Hello World, `c#`:
+
+```
+using System;
+class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine("Hello, world!");
+    }
+}
+```
+<!-- more -->
+Hello World, `go`:
+
+```
+package main
+ 
+import "fmt"
+ 
+func main() {
+   fmt.Println("Hello, world!")
+}
+```
+
+Hello World, `ruby`:
+
+```ruby
+puts "Hello, world!"
 ```
 
 There should be some content so let's use classic placeholder...
