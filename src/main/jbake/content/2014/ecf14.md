@@ -15,6 +15,6 @@ It was also a chance to meet Co Spec Lead Jean-Marie Dautelle (below on the left
 
 ![alt text](/img/DSCF9653_640x480.jpg "Jean-Marie at Unconference dinner")
 
-The following day Jean-Marie pressented [Javolution](http://www.javolution.org/), and projects using it like [JScience](http://www.jscience.org/) in a lightning talk on how it can improve scalability.
+The following day Jean-Marie presented [Javolution](http://www.javolution.org/), and projects using it like [JScience](http://www.jscience.org/) in a lightning talk on how it can improve scalability.
 
 ![alt text](/img/DSCF9712_640x480.jpg "Jean-Marie at Scalability talk")
