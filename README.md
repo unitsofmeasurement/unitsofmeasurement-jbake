@@ -9,7 +9,7 @@ to publish:  bake.bat
 
 to test:     taste.bat
 
- ** Generally **
+ ## Generally
 
 to publish : jbake src/main/jbake [output folder]
 
