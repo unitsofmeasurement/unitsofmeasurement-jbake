@@ -4,7 +4,7 @@ unitsofmeasurement-jbake
 Units of Measurement Web Site JBake Bootstrap Template
 
 
-If you have [GIT_HOME]/unitsofmeasurement.github.io cloned, 
+If you have [GIT_HOME]/unitsofmeasurement.github.io](https://github.com/unitsofmeasurement/unitsofmeasurement.github.io "unitsofmeasurement.github.io") cloned, 
 to publish:  bake.bat
 
 to test:     taste.bat
