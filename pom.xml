@@ -2,11 +2,11 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
         <modelVersion>4.0.0</modelVersion>
         <artifactId>unitsofmeasurement-jbake</artifactId>
-        <version>0.1-SNAPSHOT</version>
+        <version>0.1</version>
 		<parent>
         	<groupId>org.unitsofmeasurement</groupId>
         	<artifactId>unitsofmeasurement-parent</artifactId>
-        	<version>0.5-SNAPSHOT</version>
+        	<version>0.5</version>
         </parent>
         <build>
                 <finalName>site</finalName>
