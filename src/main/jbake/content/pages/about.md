@@ -51,4 +51,4 @@ but is subject to mathematics that can help to eliminate errors.
 
 The image refers to the Shakespeare play "Measure for Measure", 
 frequently used by presentations on JSR 363. 
-In the story a Duke disguised as a friar spies on his subjects, thus Duke became a perfect actor.
+In the story a Duke disguised as a friar spies on his subjects, so Duke sounded like a good match (not for the spying we hope;-)
