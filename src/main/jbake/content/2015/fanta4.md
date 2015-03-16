@@ -11,4 +11,4 @@ status=published
 JSR 363 will be represented by "The Fantastic Four", 4 EG Members, 2 of them Spec Leads.
 
 ![alt text](/img/-654ae936-9c2b-4b02-9d8f-0fc55b09d735_uom_800x302.jpg "The Fantastic Four")
-Local Hero "Duck Asteroid" Chris Senior, Mr. "Flaming Brazilian/Texas BBQ" Leonardo, "Chicken Man" Mohamed and "Java Godfather" Werner will be holding 2 sessions on JSR 363 in London and Nuremberg almost simultanously in 2 different languages.
+Local Hero "Duck Asteroid" Chris Senior, Mr. "Flaming Brazilian/Texas BBQ" Leonardo, "Chickenman" Mohamed and "Java Godfather" Werner will be holding 2 sessions on JSR 363 in London and Nuremberg almost simultanously in 2 different languages.
