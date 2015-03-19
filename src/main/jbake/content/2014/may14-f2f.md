@@ -1,7 +1,7 @@
 title=First EG F2F during JCP EC F2F in London
 date=2014-05-14
 type=post
-tags=java, jcp
+tags=java, jcp, london
 status=published
 ~~~~~~
 

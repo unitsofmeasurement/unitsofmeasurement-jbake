@@ -1,7 +1,7 @@
 title=Eclipse DemoCamp and Maker Faire Trondheim 2014
 date=2014-08-28
 type=post
-tags=iot, java, m2m, science, eclipse, qs, health, makerfaire
+tags=iot, java, m2m, science, eclipse, qs, health, makerfaire, norway
 status=published
 ~~~~~~
 

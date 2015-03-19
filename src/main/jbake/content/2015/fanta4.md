@@ -1,7 +1,7 @@
 title=Fantastic Four vs The League of Extraordinary Developers
 date=2015-03-15
 type=post
-tags=iot, java, m2m, devoxx, uk, embedded, london, wearable
+tags=iot, java, m2m, dwx, devoxx, uk, germany, embedded, london, wearable
 status=published
 ~~~~~~
 
