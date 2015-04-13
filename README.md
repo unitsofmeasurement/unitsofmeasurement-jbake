@@ -1,7 +1,7 @@
 unitsofmeasurement-jbake
 =====================================
 
-JBake Bootstrap Template for Units of Measurement Web Site
+Templates and content for for [Units of Measurement Web Site](http://unitsofmeasurement.github.io) using [Bootstrap](http://getbootstrap.com) and [JBake](http://jbake.org/)
 
 
 If you have `[GIT_HOME]`/[unitsofmeasurement-jbake](https://github.com/unitsofmeasurement/unitsofmeasurement-jbake "unitsofmeasurement-jbake") and `[GIT_HOME]`/[unitsofmeasurement.github.io](https://github.com/unitsofmeasurement/unitsofmeasurement.github.io "unitsofmeasurement.github.io") cloned, 
