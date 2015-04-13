@@ -4,16 +4,26 @@ unitsofmeasurement-jbake
 Units of Measurement Web Site JBake Bootstrap Template
 
 
-If you have [GIT_HOME]/[unitsofmeasurement.github.io](https://github.com/unitsofmeasurement/unitsofmeasurement.github.io "unitsofmeasurement.github.io") cloned, 
-to publish:  bake.bat
+If you have `[GIT_HOME]`/[unitsofmeasurement-jbake](https://github.com/unitsofmeasurement/unitsofmeasurement-jbake "unitsofmeasurement-jbake") and `[GIT_HOME]`/[unitsofmeasurement.github.io](https://github.com/unitsofmeasurement/unitsofmeasurement.github.io "unitsofmeasurement.github.io") cloned, 
+to publish:
 
-to test:     taste.bat
+    bake.bat
+
+to test:
+
+    taste.bat
+
+Requires JBake version 2.3 or above
 
 Generally
 ---------
 
-to publish : jbake src/main/jbake [output folder]
+to publish:
 
-to test locally : jbake -s [output folder]
+    jbake src/main/jbake [output folder]
 
-See http://jbake.org/
+to test locally:
+
+    jbake -s [output folder]
+
+See [Getting Started](http://jbake.org/docs/2.3.2/#getting_started) in the JBake documentation for more information.
