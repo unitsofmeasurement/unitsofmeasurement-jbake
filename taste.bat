@@ -1,2 +1,2 @@
 @echo off
-%JBAKE_HOME%\jbake -s ..\unitsofmeasurement.github.io
+%JBAKE_HOME%\bin\jbake -s ..\unitsofmeasurement.github.io

@@ -18,7 +18,7 @@
             <li><a href="/pages/about.html">About</a></li>
             <!--li><a href="/pages/contact.html">Contact</a></li-->
             <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Parts <b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Links <b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="nav-header">JSR 363</li>
                     <li><a href="https://github.com/unitsofmeasurement/unit-api">Specification (API)</a></li>
@@ -32,7 +32,7 @@
                     <!--- li class="nav-header">Sandbox</li>
                     <li><a href="shelter.html">Shelter</a></li -->
                     <li class="divider"></li>
-                    <li class="nav-header">Additional Info and Links</li>
+                    <li class="nav-header">Additional Information</li>
                     <li><a href="http://jcp.org/en/jsr/detail?id=363">JSR 363 Detail Page</a></li>
                     <li><a href="https://unitsofmeasurement.java.net">JSR 363 Project on Java.net</a></li>
                     <li><a href="http://www.unitsofmeasurement.org/jsr-363/index.html">JSR 363 Maven Site</a></li>
