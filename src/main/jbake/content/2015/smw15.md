@@ -1,7 +1,7 @@
 title=Social Media Week 2015
 date=2015-02-28
 type=post
-tags=iot, java, m2m, social, smw, qs, health, wearable
+tags=iot, ioe, java, m2m, social, smw, qs, health, wearable, hitchbot
 status=published
 ~~~~~~
 
