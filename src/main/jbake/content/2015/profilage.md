@@ -1,5 +1,5 @@
 title=Profiling JSR 363
-date=2015-09-10
+date=2015-09-15
 type=post
 tags=java, jcp, jsr, profiles
 status=published
@@ -17,4 +17,5 @@ The current profiles are:
  - SPI
  - Full
  
+See [TCK Profiles](http://github.com/unitsofmeasurement/unit-tck#profiles) for further details.
  
