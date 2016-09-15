@@ -1,18 +1,12 @@
-title=JSR 363 Final Approved
-date=2016-09-06
+title=Final Release
+date=2016-09-13
 type=post
-tags=java, iot, m2m, jcp, jsr, fab
+tags=java, iot, m2m, jcp, jsr, fab, final
 status=published
 ~~~~~~
 
-Yesterday, the Final Approval Ballot for JSR 363 at the Java Community Process finished:
-https://jcp.org/en/jsr/results?id=5877.
-
-JSR 363 was approved by the JCP Executive Committee.
-
-The Final Release page should be published on JCP.org any time soon (probably a bit hectic before JavaOne;-)
-
-In the meantime, please refer to MavenCentral, Bintray JCenter or GitHub.
+Last week the Final Approval Ballot for JSR 363 at the Java Community Process finished. JSR 363 was approved by the JCP Executive Committee: https://jcp.org/en/jsr/results?id=5877.
+The Final Release page is: https://jcp.org/aboutJava/communityprocess/final/jsr363/index.html
 
 Corresponding GitHub release tags for API are:
 https://github.com/unitsofmeasurement/unit-api/releases/tag/1.0
