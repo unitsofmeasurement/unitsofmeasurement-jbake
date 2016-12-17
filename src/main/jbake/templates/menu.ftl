@@ -31,6 +31,7 @@
                     <li class="divider"></li>
                     <li class="nav-header">Extensions</li>
                     <li><a href="https://github.com/unitsofmeasurement/unit-lib">Units Libraries</a></li>
+                    <li><a href="http://uom.si">SI Units</a></li>
                  <!---    li class="nav-header">Sandbox</li>
                     <li><a href="sandbox.html">Sandbox</a></li -->
                     <li class="divider"></li>
