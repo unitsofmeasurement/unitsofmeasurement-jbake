@@ -1,7 +1,7 @@
 title=JavaOne 2014
 date=2014-10-02
 type=post
-tags=java, jcp, javaone
+tags=java, jcp, javaone, us
 status=published
 ~~~~~~
 

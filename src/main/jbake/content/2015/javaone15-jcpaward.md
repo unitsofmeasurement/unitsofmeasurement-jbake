@@ -1,7 +1,7 @@
 title=JavaOne 2015, JCP Award
 date=2015-10-28
 type=post
-tags=java, javaone, jcp, ec, award
+tags=java, javaone, jcp, ec, award, us
 status=published
 ~~~~~~
 

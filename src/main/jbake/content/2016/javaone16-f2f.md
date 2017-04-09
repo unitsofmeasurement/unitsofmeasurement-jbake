@@ -1,7 +1,7 @@
 title=JavaOne 2016
 date=2016-09-20
 type=post
-tags=java, jcp, javaone, bof
+tags=java, jcp, javaone, bof, us
 status=published
 ~~~~~~
 

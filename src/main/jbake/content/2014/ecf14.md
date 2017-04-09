@@ -1,7 +1,7 @@
 title=EclipseCon France
 date=2014-06-17
 type=post
-tags=java, iot, m2m, science, eclipse
+tags=java, iot, m2m, science, eclipse, france
 status=published
 ~~~~~~
 
