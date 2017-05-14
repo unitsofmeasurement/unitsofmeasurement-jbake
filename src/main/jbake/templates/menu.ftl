@@ -37,10 +37,9 @@
                     <li><a href="sandbox.html">Sandbox</a></li -->
                     <li class="divider"></li>
                     <li class="nav-header">Additional Information</li>
-                    <li><a href="http://jcp.org/en/jsr/detail?id=363">JSR 363 Detail Page</a></li>
-                    <li><a href="http://unitsofmeasurement.java.net">JSR 363 Project on Java.net</a></li>
+                    <li><a href="http://jcp.org/en/jsr/detail?id=363">JSR 363 Detail Page</a></li>         
                     <li><a href="http://unitsofmeasurement.github.io/unit-api/site">JSR 363 Maven Site</a></li>
-                    <li class="divider"></li>
+                    <li><a href="https://bintray.com/unitsofmeasurement">Units of Measurement on Bintray</a></li>
                     <li><a href="https://github.com/unitsofmeasurement/uom-legacy">Unit API 0.6</a></li></li>
                   </ul>
                 </li>
