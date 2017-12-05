@@ -1,7 +1,7 @@
 title=A Taste of Indriya
 date=2017-08-15
 type=post
-tags=java, indriya, jcp, jsr, ri
+tags=java, indriya, jcp, jsr, ri, implementation
 status=published
 ~~~~~~
 

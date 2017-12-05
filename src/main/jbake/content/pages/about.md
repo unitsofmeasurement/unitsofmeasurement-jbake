@@ -8,6 +8,8 @@ The Unit of Measurement API provides a set of Java language programming interfac
 The interfaces provide a layer which separates client code, that would call the API, 
 from library code, which implements the API.
 
+![alt text](/img/duke_measure_250x250.png "Measuring Duke")
+
 The specification contains Interfaces and abstract classes with methods for unit operations:
 * Checking of unit compatibility
 * Expression of a quantity in various units
@@ -17,8 +19,6 @@ Developers frequently encounter the need to model units of measure, because obje
 When working with units, developers need to understand the mathematics of units, how to convert between systems, 
 and how to format and parse string representations of units. Most of this work can be consolidated into one or two Java packages, 
 which is a primary aim of this JSR. This package will help developers create safe, correct software to deal with common problem of modeling units.
-
-![alt text](/img/duke_measure1_640.jpg "Measure for Measure Duke")
 
 Units give us a way to measure the physical world. There are many different units, partly because the world has different types of properties, 
 such as length and mass, which are not interchangeable in normal physics. This type of property is sometimes called a "quantity" or a "dimension". 
@@ -49,6 +49,8 @@ but is subject to mathematics that can help to eliminate errors.
 
 *What's with Duke and that haircut?*
 
+![alt text](/img/duke_measure1_640.jpg "Measure for Measure Duke")
+
 The image refers to the Shakespeare play "Measure for Measure", 
-frequently used by presentations on JSR 363. 
+occasionally used by presentations on JSR 363. 
 In the story a Duke disguised as a friar spies on his subjects, so Duke sounded like a good match (not for the spying we hope;-)
