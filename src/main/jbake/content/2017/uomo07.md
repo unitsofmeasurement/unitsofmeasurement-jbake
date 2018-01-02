@@ -1,4 +1,4 @@
-title=Eclipe UOMo 0.7
+title=Eclipse UOMo 0.7
 date=2017-12-31
 type=post
 tags=java, eclipse, uomo, jsr, implementation
