@@ -10,5 +10,5 @@ At [OOP 2019](https://www.oop-konferenz.de/oop2019/startseite-englisch.html) in 
 During the session a "Graphic Novel" of it was created:
 ![OOP Graphic Novel](/img/IMG_20190124_155810_888_768x768.jpg "Graphic Novel about JSR-385")
 
-So Filip and Werner are actual ***Comic Heroes*** now ;-D
+So Filip and Werner are actual **Comic Heroes** now ;-D
 According to OOP organizers the session was very well received by attendees, too.
