@@ -6,7 +6,7 @@ status=published
 ~~~~~~
 
 Just one week before World Metrology Day 2019 and shortly before the Public Review of JSR 385 the combined downloads of Unit-API (JSR 363 and 385) exceeded the 100-thousandth download within a period of 12 months: 
-![alt text](/img/jsr385_111k.png "Unit-API exceeded 100-thousandth download")
+![111k Unit-API downloads](/img/jsr385_111k.png "Unit-API exceeded 100-thousandth download")
 
 See Bintray statistics:
 https://bintray.com/unitsofmeasurement/maven/javax.measure%3Aunit-api#statistics
