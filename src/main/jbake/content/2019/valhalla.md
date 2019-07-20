@@ -11,4 +11,4 @@ Zeus in Valhalla
 
 In the "Zeus" hall on [JCrete 2019](http://www.jcrete.org/) Hack day Werner got the Valhalla Early-Access Build of Java 14 to run with Unit API.
 
-Bringing together Ancient Greek gods with their equivalents from Nordic mythology if you want. You can find them under [valhalla].(https://github.com/unitsofmeasurement/uom-demos/tree/master/console/valhalla)
+Bringing together Ancient Greek gods with their equivalents from Nordic mythology if you want. You can find them under [valhalla](https://github.com/unitsofmeasurement/uom-demos/tree/master/console/valhalla).
