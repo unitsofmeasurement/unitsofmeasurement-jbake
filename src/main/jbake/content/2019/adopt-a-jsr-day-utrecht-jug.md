@@ -1,7 +1,7 @@
 title=Utrecht JUG Adopts JSR-385
 date=2019-06-01
 type=post
-tags=utrecht, jcp, adoptajsr
+tags=utrecht, jcp, adoptajsr, nl
 status=published
 ~~~~~~
 
