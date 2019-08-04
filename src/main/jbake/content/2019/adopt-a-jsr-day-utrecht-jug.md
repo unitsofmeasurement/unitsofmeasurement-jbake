@@ -1,7 +1,7 @@
-title=Utrecht JUG Adopts JSR-385
+title=Utrecht JUG Adopts JSR 385
 date=2019-06-01
 type=post
-tags=utrecht, jcp, adoptajsr, nl
+tags=utrecht, jcp, adoptajsr, nl, jug, netherlands
 status=published
 ~~~~~~
 
@@ -19,4 +19,4 @@ You can find a few related links below:
 - [Vaadin video demo](https://www.youtube.com/watch?v=ggO5Du3DQYE)
 
 Interview with Werner after the event:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kEMZmoMXYbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/kEMZmoMXYbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
