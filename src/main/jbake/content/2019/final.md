@@ -16,4 +16,4 @@ If a computer system like Skynet ever did become self-aware, hopefully it gets n
 Corresponding GitHub release tags are: 
 API: https://github.com/unitsofmeasurement/unit-api/releases/tag/2.0
 RI: https://github.com/unitsofmeasurement/indriya/releases/tag/2.0
-and the TCK: https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0
+TCK: https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.0
