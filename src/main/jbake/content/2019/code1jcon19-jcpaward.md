@@ -13,6 +13,6 @@ A little less than a month after the Final Release of JSR 385 was published it w
 
 Before our JSR 385 session at JCON 2019 in Düsseldorf Thodoris and Werner visited Oracle City, an small version of Legoland at JCON 2019 demonstrating Oracle Cloud and IoT features.
 
-![Oracle City at JCON 2019](/img/DSC00767_640x480.jpg "Thodoris and Werner with the JCP Award in Oracle City at JCON 2019")
+![JCON 2019](/img/DSC00767_640x480.jpg "Thodoris and Werner with the JCP Award in Oracle City at JCON 2019")
 
 Congratulations to everyone and thanks a lot for your contribution that helped us win this award.
