@@ -6,6 +6,10 @@ status=published
 
 Compatible Implementations
 
+* [Indriya (RI)](http://units.tech)
+* [Unit Impl Enum](http://unitsofmeasurement.github.io/uom-impl-enum/)
+* [Seshat (JSR 363)](https://unitsofmeasurement.github.io/seshat/)
+
 Additional References
 
 * [JSR 363 Detail Page](http://jcp.org/en/jsr/detail?id=363)
