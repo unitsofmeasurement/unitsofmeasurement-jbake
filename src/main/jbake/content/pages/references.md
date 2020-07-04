@@ -13,6 +13,7 @@ Compatible Implementations
 
 Articles and Publications
 
+* [DZone > Unit-API: What, How, and Why](https://dzone.com/articles/unit-api-what-how-and-why)
 * [JAXenter: Die Highlights der Oracle Code One 2019 - JCP Party & Awards (German)](https://jaxenter.de/highlights-oracle-code-one-2019-87182)
 * [Schneide Blog: Migrating from JScience quantities to Unit API 2.0](https://schneide.blog/tag/unit-api-2-0/)
 * [Baeldung: Introduction to javax.measure](https://www.baeldung.com/javax-measure)
