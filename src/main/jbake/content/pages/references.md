@@ -9,6 +9,7 @@ Compatible Implementations
 * [Indriya (RI)](http://units.tech)
 * [Unit Impl Enum](http://unitsofmeasurement.github.io/uom-impl-enum/)
 * [Seshat (JSR 363)](https://unitsofmeasurement.github.io/seshat/)
+* [Eclipse UOMo (JSR 363)](https://eclipse.org/uomo/)
 
 Additional References
 
