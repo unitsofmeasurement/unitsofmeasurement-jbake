@@ -6,9 +6,9 @@ status=published
 
 Compatible Implementations
 
-* [Indriya (RI)](http://units.tech)
-* [Unit Impl Enum](http://unitsofmeasurement.github.io/uom-impl-enum/)
-* [Seshat (JSR 363)](https://unitsofmeasurement.github.io/seshat/)
+* [Indriya (RI)](http://units.tech) | [Proof of compatibility](https://129-41443578-gh.circle-artifacts.com/0/~/repo/target/tck-output/tck-results.txt)
+* [Unit Impl Enum](http://unitsofmeasurement.github.io/uom-impl-enum/) | [Proof of compatibility](https://124-41443578-gh.circle-artifacts.com/0/~/repo/target/tck-output/tck-results.txt)
+* [Seshat (JSR 363)](https://unitsofmeasurement.github.io/seshat/) | [Proof of compatibility](https://127-41443578-gh.circle-artifacts.com/0/~/repo/target/tck-output/tck-results.txt)
 * [Eclipse UOMo (JSR 363)](https://eclipse.org/uomo/)
 
 Articles and Publications
