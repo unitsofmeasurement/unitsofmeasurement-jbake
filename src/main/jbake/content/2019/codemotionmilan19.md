@@ -13,3 +13,6 @@ In particular, <a href="https://events.codemotion.com/conferences/milan/2019/">C
 
 Before our own JSR 385 session at Codemotion Milan 2019 on October, 25, Thodoris and Werner had the privilege to interview both Don Eyles and Russ Olson.
 ![Interview with Don Eyles](/img/DSC01079_640x480.jpg "Werner and Thodoris with Don Eyles at Codemotion Milan 2019")
+
+Here's a more detailed video by [Scientific American](https://www.scientificamerican.com/) about Mars Climate Orbiter:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urcQAKKAAl0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
