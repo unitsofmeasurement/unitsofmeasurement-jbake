@@ -1,5 +1,5 @@
 title=References
-date=2020-07-04
+date=2021-01-23
 type=page
 status=published
 ~~~~~~
@@ -28,6 +28,10 @@ Articles and Publications
 
 Additional References
 
+* [Units Developers (Google Group)](https://groups.google.com/forum/#!forum/units-dev)
+* [Units Users (Google Group)](https://groups.google.com/forum/#!forum/units-users)
+* [Twitter](https://twitter.com/UnitAPI)
 * [Maven Site](https://unitsofmeasurement.github.io/unit-api/site/)
+* [Codex UOMo (Blogspot)](http://codex-uomo.blogspot.com/)
 * [JSR 363 Detail Page](http://jcp.org/en/jsr/detail?id=363)
 * [Unit API 0.6](https://github.com/unitsofmeasurement/uom-legacy)

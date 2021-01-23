@@ -30,7 +30,7 @@
                     <li class="divider"></li>                    
                     <li><a href="https://unitsofmeasurement.github.io/unit-tck">TCK (Technical Compatibility Kit)</a></li>
                     <li><a href="https://unitsofmeasurement.github.io/uom-demos">Units Demos</a></li>
-                    <li><a href="https://unitsofmeasurement.gitbooks.io/uom-guide/content/">Guide Book</a></li>
+                    <li><a href="https://unitsofmeasurement.gitbook.io/uom-guide/">Guide Book</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">Extensions</li>
                     <li><a href="https://unitsofmeasurement.github.io/uom-lib">Units Libraries</a></li>
