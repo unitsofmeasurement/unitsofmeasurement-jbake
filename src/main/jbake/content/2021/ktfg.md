@@ -1,7 +1,7 @@
 title=Kiss the Frog Goodbye
 date=2021-02-07
 type=post
-tags=java, maven jfrog, bintray
+tags=java, maven, jfrog, bintray
 status=published
 ~~~~~~
 
