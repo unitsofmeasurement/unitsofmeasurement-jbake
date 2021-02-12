@@ -1,7 +1,7 @@
 title=2nd Anniversary of CGPM26
 date=2020-11-16
 type=post
-tags=bipm, cgpm, standards, france, fr, paris, si
+tags=bipm, cgpm, standards, france, fr, paris, si, release
 status=published
 ~~~~~~
 
@@ -9,3 +9,5 @@ status=published
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qA67T7FPBME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![alt text](/img/SI_Illustration_Full_497x497.png "SI Redefinition 2019")
+
+In this occasion we released [version 2.1](https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1) of the API.
