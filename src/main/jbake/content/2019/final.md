@@ -1,7 +1,7 @@
 title=2.0 Final Release
 date=2019-08-29
 type=post
-tags=java, iot, m2m, jcp, jsr, final
+tags=java, iot, m2m, jcp, jsr, final, release
 status=published
 ~~~~~~
 Judgement Day
