@@ -10,4 +10,4 @@ status=published
 
 ![alt text](/img/SI_Illustration_Full_497x497.png "SI Redefinition 2019")
 
-In this occasion we released [version 2.1](https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1) of the API.
+On this occasion we released [version 2.1](https://github.com/unitsofmeasurement/unit-api/releases/tag/2.1) of the API.
