@@ -1,7 +1,7 @@
 title=Pecha Kucha Night
 date=2013-12-18
 type=post
-tags=pechakucha, java, iot, units, pechakucha, Frankfurt
+tags=java, iot, units, pechakucha, Frankfurt
 status=published
 ~~~~~~
 

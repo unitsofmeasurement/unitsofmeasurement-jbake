@@ -1,7 +1,7 @@
 title=Data Quality on Mars - Apache BigData Europe 2015
 date=2015-10-10
 type=post
-tags=java, jcp, apache
+tags=java, jcp, apache, space, mars
 status=published
 ~~~~~~
 
