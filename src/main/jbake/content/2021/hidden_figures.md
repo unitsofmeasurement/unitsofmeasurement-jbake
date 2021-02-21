@@ -5,7 +5,7 @@ tags=java, release, implementation, ri, patch, apollo, mercury, space
 status=published
 ~~~~~~
 
-![Hidden Figures Launch](/img/1000-1-1_500.jpeg "Hidden Figures")
+![Hidden Figures Launch](/img/NSF-2020-05-11-15-32-43-831_463.png "Hidden Figures")
 
 Honoring the Black mathematician [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson) whose calculations contributed to the Feb. 20, 1962, mission that made John Glenn the first American to orbit the globe, and had a spacecraft on its way to the ISS named after her: https://www.npr.org/2021/02/20/969790056/spacecraft-named-for-hidden-figures-mathematician-launches-from-virginia
 
