@@ -1,7 +1,7 @@
 title=Codemotion Milan 2019 - Apollo 11 Anniversary
 date=2019-10-25
 type=post
-tags=java, iot, codemotion, apollo, moon, apollo50, milan, it
+tags=java, iot, codemotion, apollo, moon, apollo50, space, milan, it
 status=published
 ~~~~~~
 
