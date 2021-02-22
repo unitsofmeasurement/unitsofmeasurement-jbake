@@ -14,3 +14,5 @@ Honoring the Black mathematician [Katherine Johnson](https://en.wikipedia.org/wi
 Having met Don Eyles who also worked on the Apollo Program a few months ago at [Codemotion Milan 2019](../2019/codemotionmilan19.html) and celebrating [Black History Month 2021](https://youtu.be/3VRsJcbAg_s) with the API release last week, we dedicate the 2.1.2 Patch Release of Indriya to Katherine Johnson and her colleagues.
 
 The corresponding GitHub release tag for the RI is: https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.2
+Fixing the following issues: 
+https://github.com/unitsofmeasurement/indriya/milestone/8?closed=1
