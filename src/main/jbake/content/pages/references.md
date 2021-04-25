@@ -1,5 +1,5 @@
 title=References
-date=2021-01-23
+date=2021-04-25
 type=page
 status=published
 ~~~~~~
@@ -9,7 +9,6 @@ Communications
 * [Units Developers (Google Groups)](https://groups.google.com/forum/#!forum/units-dev)
 * [Units Users (Google Groups)](https://groups.google.com/forum/#!forum/units-users)
 * [Twitter](https://twitter.com/UnitAPI)
-
 
 Compatible Implementations
 
@@ -31,25 +30,21 @@ Articles and Publications
 * [JAXenter: JSR 385 Interview (German)](https://jaxenter.de/jsr-385-units-of-measurement-api-2-0-66529)
 
 
-Presentations
+Videos
 
-* [SlideShare: How JSR 385 could have Saved the Mars Climate Orbiter - JFokus 2020](https://www.slideshare.net/keilw/how-jsr-385-could-have-saved-the-mars-climate-orbiter-jfokus-2020)
-* [SlideShare: How JSR 385 could have Saved the Mars Climate Orbiter - Adopt-a-JSR Day](https://www.slideshare.net/keilw/how-jsr-385-could-have-saved-the-mars-climate-orbiter-adoptajsr-day)
-* [SlideShare: Physikal - Using Kotlin for Clean Energy - KUG Munich](https://www.slideshare.net/keilw/physikal-using-kotlin-for-clean-energy-kug-munich)
-* [SlideShare: Eclipse Science F2F 2016 - JSR 363](https://www.slideshare.net/keilw/eclipse-science-f2f-2016-jsr-363)
-* [SlideShare: The First IoT JSR: Units of Measurement - DevoXX BE 2015](https://www.slideshare.net/keilw/the-first-iot-jsr-units-of-measurement-devoxx-be-2015)
+* [YouTube: Ingenuity Mars Helicopter completed 2nd flight to 5 meters altitude](https://www.youtube.com/watch?v=N9HHH_H5KoU)
+* [YouTube: J-Fall 2019: Thodoris Bais & Werner Keil - How JSR 385 could have saved the Mars Climate Orbiter](https://www.youtube.com/watch?v=xnTmzkG0zWk)
+* [YouTube: JCON2019 - How JSR 385 could have saved the Mars Climate Orbiter](https://www.youtube.com/watch?v=SEurSHvOTEo)
+* [YouTube: Interview with JSR 385 Spec Lead Werner Keil](https://youtu.be/AGLX-HlPHrc)
+* [YouTube: JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake - Filip Van Laenen [ACCU 2019]](https://www.youtube.com/watch?v=QJ5LVsxLrZs)
+* [YouTube: How Did NASA Lose a Mars Space Probe Because of Maths?](https://www.youtube.com/watch?v=lcYkOh4nweE)
+* [YouTube: Mars Climate Orbiter Final Version2](https://www.youtube.com/watch?v=6aR9MQdX_zg)
 * [YouTube: The First IoT JSR: Units of Measurement by Werner Keil](https://youtu.be/AGLX-HlPHrc)
-* [SlideShare: Social Media Week 2015 - Quantified Self and the Social Internet of Things](https://www.slideshare.net/keilw/social-media-week-2015-quantified-self)
 * [YouTube: When NASA Lost a Spacecraft Because It Didn't Use Metric - It Happened in Space #21](https://youtu.be/urcQAKKAAl0)
-* [SlideShare: JSR 363 - The Answer to Life Science and the Internet of Everything - JavaZone 2014](https://www.slideshare.net/keilw/jsr-363-the-answer-to-life-science-and-the-internet-of-everything)
-* [SlideShare: Eclipse DemoCamp Vienna: IoT, M2M für Fitness, Gesundheit und Wissenschaft (German)](https://de.slideshare.net/keilw/eclipse-democamp-vienna-iot-und-science-wg)
-* [SlideShare: Bitte ein Maß - M2M und IoT auf PKN 029@Medienmittwoch in Frankfurt (German)](https://www.slideshare.net/keilw/m4-m-m2mpechakucha13de)
-* [SlideShare: M4M 2 the Rescue of M2M - Eclipse DemoCamp Trondheim](https://de.slideshare.net/keilw/m4m-2-the-rescue-of-m2m-nordic-edition)
-* [SlideShare: geecon 2013 - Standards for the Future of Java Embedded](https://de.slideshare.net/keilw/geecon-2013-standards-for-the-future-of-java-embedded)
-* [SlideShare: Eclipse Day Krakow 2013 - The OHF Legacy](https://www.slideshare.net/keilw/the-ohf-legacy)
 
 Additional References
 
+* [Downloads](https://unitsofmeasurement.github.io/downloads/)
 * [Maven Site](https://unitsofmeasurement.github.io/unit-api/site/)
 * [Codex UOMo (Blogspot)](http://codex-uomo.blogspot.com/)
 * [JSR 363 Detail Page](http://jcp.org/en/jsr/detail?id=363)
