@@ -1,7 +1,7 @@
 title=15th Anniversary of JSR 275
 date=2020-06-13
 type=post
-tags=java, jcp, jsr, einstein
+tags=java, jcp, jsr, einstein, standards
 status=published
 ~~~~~~
 
