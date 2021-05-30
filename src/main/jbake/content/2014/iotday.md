@@ -1,7 +1,7 @@
 title=World IoT Day
 date=2014-04-09
 type=post
-tags=java, iot, m2m
+tags=java, iot, m2m, iotday
 status=published
 ~~~~~~
 

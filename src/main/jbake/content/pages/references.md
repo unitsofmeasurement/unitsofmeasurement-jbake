@@ -41,6 +41,7 @@ Videos
 * [YouTube: Mars Climate Orbiter Final Version2](https://www.youtube.com/watch?v=6aR9MQdX_zg)
 * [YouTube: The First IoT JSR: Units of Measurement by Werner Keil](https://youtu.be/AGLX-HlPHrc)
 * [YouTube: When NASA Lost a Spacecraft Because It Didn't Use Metric - It Happened in Space #21](https://youtu.be/urcQAKKAAl0)
+* [YouTube: JavaOne 2013 - Java Embedded Challenge - Heart of Glass](https://youtu.be/jNQpB5UZi50)
 
 Additional References
 
