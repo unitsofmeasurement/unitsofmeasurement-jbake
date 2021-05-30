@@ -1,4 +1,4 @@
-title=World IoT Day
+title=IoT Day 2021
 date=2021-04-09
 type=post
 tags=java, iot, m2m, iotday
