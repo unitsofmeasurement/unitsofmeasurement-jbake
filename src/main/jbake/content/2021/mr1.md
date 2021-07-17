@@ -1,4 +1,4 @@
-title=2.0 Maintenance Release 1
+title=2.0 Maintenance Release 1 Ballot
 date=2021-01-12
 type=post
 tags=java, jcp, jsr, mr, maintenance, release
