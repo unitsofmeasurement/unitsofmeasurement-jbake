@@ -29,8 +29,15 @@
           <a href="http://www.facebook.com/sharer.php?u=${post_url}" target="_blank"><img src="/img/sharebuttons/facebook.png" alt="Facebook" /></a>
   </#if>
   <!-- Google+ -->
+  <!-- TODO remove later, see https://github.com/unitsofmeasurement/unitsofmeasurement-jbake/issues/50 -->
   <#if config.share_googleplus?? && config.share_googleplus == "true">
           <a href="https://plus.google.com/share?url=${post_url}" target="_blank"><img src="/img/sharebuttons/google_plus.png" alt="Google" /></a>
+  </#if>
+  <!-- Mastodon -->
+  <!-- TODO apply https://github.com/unitsofmeasurement/unitsofmeasurement-jbake/issues/50 -->
+  <#if config.share_mastodon?? && config.share_mastodon == "true">
+          <#assign url = config.site_host+content.uri>
+          <a href="http://twitter.com/share?url=${post_url}&text=${content.title} ${url}" target="_blank"><img src="/img/sharebuttons/twitter.png" alt="Twitter" /></a>
   </#if>
   <!-- Twitter -->
   <#if config.share_twitter?? && config.share_twitter == "true">

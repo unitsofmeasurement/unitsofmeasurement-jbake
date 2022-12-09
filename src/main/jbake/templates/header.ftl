@@ -98,7 +98,7 @@
         <#break>
     </#switch>
 </#if>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">    
     <link rel="stylesheet" href="/css/base.css">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
