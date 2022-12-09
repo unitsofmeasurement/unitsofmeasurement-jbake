@@ -5,25 +5,14 @@ unitsofmeasurement-jbake
 
 
 If you have `[GIT_HOME]`/[unitsofmeasurement-jbake](https://github.com/unitsofmeasurement/unitsofmeasurement-jbake "unitsofmeasurement-jbake") and `[GIT_HOME]`/[unitsofmeasurement.github.io](https://github.com/unitsofmeasurement/unitsofmeasurement.github.io "unitsofmeasurement.github.io") cloned, 
-to publish:
+to publish locally:
 
-    bake.bat
-
-to test:
-
-    taste.bat
-
-Requires JBake version 2.3 or above
-
-Generally
----------
-
-to publish:
-
-    jbake src/main/jbake [output folder]
+ mvn clean install
 
 to test locally:
 
-    jbake -s [output folder]
+ mvn jbake:inline [ -Dport=8000 ]
 
-See [Getting Started](http://jbake.org/docs/2.3.2/#getting_started) in the JBake documentation for more information.
+JBake’s internal Web server listens by default on port `8820`. If you have another application occupying port `8820`, then the listening port of JBake can be changed with the `port` parameter.
+
+Requires JBake v2.7 or above.
