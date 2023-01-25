@@ -3,6 +3,7 @@ unitsofmeasurement-jbake
 
 [JBake](http://jbake.org/) source of the [Units of Measurement Web Site](http://unitsofmeasurement.github.io) using [Bootstrap](http://getbootstrap.com) template.
 
+[![Java CI with Maven](https://github.com/unitsofmeasurement/unitsofmeasurement-jbake/actions/workflows/maven.yml/badge.svg)](https://github.com/unitsofmeasurement/unitsofmeasurement-jbake/actions/workflows/maven.yml)
 
 If you have `[GIT_HOME]`/[unitsofmeasurement-jbake](https://github.com/unitsofmeasurement/unitsofmeasurement-jbake "unitsofmeasurement-jbake") and `[GIT_HOME]`/[unitsofmeasurement.github.io](https://github.com/unitsofmeasurement/unitsofmeasurement.github.io "unitsofmeasurement.github.io") cloned, 
 to publish locally:
