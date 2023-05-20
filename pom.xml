@@ -7,7 +7,7 @@
 		<parent>
         	<groupId>tech.uom</groupId>
         	<artifactId>uom-parent</artifactId><!-- TODO Use tools parent when published as snapshot -->
-        	<version>2.2-SNAPSHOT</version>
+        	<version>2.2</version>
         </parent>        
         <properties>
                 <github.global.server>github</github.global.server>
