@@ -12,7 +12,7 @@ to publish locally:
 
 to test locally:
 
- mvn jbake:inline [ -Dport=8000 ]
+ mvn jbake:inline [ -Dport=8820 ]
 
 JBake’s internal Web server listens by default on port `8820`. If you have another application occupying port `8820`, then the listening port of JBake can be changed with the `port` parameter.
 
