@@ -11,5 +11,5 @@ Happy [Halloween](https://en.wikipedia.org/wiki/Halloween)!
 
 Today is also [Reformation Day](https://en.wikipedia.org/wiki/Reformation_Day).
 
-And the the final artifact of JSR 385 MR 2 was released, too:
+And the the final artifact of JSR 385 MR 2 was released as well:
 * [unit-tck 2.2](https://github.com/unitsofmeasurement/unit-tck/releases/tag/2.2)
