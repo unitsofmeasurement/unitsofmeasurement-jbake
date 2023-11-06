@@ -3,11 +3,10 @@
         <modelVersion>4.0.0</modelVersion>
         <artifactId>unitsofmeasurement-jbake</artifactId>
         <groupId>tech.uom.tools</groupId>
-        <version>1.0-SNAPSHOT</version>
 		<parent>
-        	<groupId>tech.uom</groupId>
-        	<artifactId>uom-parent</artifactId><!-- TODO Use tools parent when published as snapshot -->
-        	<version>2.2</version>
+        	<groupId>tech.uom.tools</groupId>
+        	<artifactId>uom-tools</artifactId><!-- TODO Use tools parent when published as snapshot -->
+        	<version>1.0-SNAPSHOT</version>
         </parent>        
         <properties>
                 <github.global.server>github</github.global.server>
