@@ -14,4 +14,4 @@ However, given [Russian Stormtroopers](https://www.engadget.com/2017-07-06-russi
 Also remembering when Teo presented the JSR in Kiev 2019:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kmE6J8NTQxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The corresponding GitHub release tag for the API is: https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.3
+The corresponding GitHub release tag for the RI is: https://github.com/unitsofmeasurement/indriya/releases/tag/2.1.3
