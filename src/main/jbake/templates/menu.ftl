@@ -54,9 +54,6 @@
             <#if config.login_github?has_content>
               <li><a href="https://github.com/${config.login_github}" title="Github"><i class="fa fa-github-square"></i></a></li>
             </#if>
-            <#if config.login_google_plus?has_content>
-              <li><a href="https://plus.google.com/${config.login_googleplus}" title="Google+"><i class="fa fa-google-plus-square"></i></a></li>
-            </#if>
           </#if>
           <#if config.render_archive?? && config.render_archive == "true">
           <li><a href="/${config.archive_file}"><i class="fa fa-list"></i> ${config.tr_archive}</a></li>

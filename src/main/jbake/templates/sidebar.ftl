@@ -12,16 +12,16 @@
                     <i title="Github" class="fab fa-github-square fa-2x social-icon"></i> github
                   </a>
                 </#if>
-                <#if config.sidebar_twitter?has_content && config.sidebar_twitter == "true">
-                <#assign url = "https://twitter.com/" + config.login_twitter>
-                  <a href="${url}" target="_blank" class="list-group-item sidebar-list-item">
-                    <i title="Twitter" class="fab fa-twitter-square fa-2x social-icon"></i> twitter
-                  </a>
-                </#if>
                 <#if config.sidebar_mastodon?has_content && config.sidebar_mastodon == "true">
                 <#assign url = "https://mathstodon.xyz/" + config.login_mastodon>
                   <a href="${url}" target="_blank" class="list-group-item sidebar-list-item">
                     <i title="Mastodon" class="fab fa-mastodon fa-2x social-icon"></i> mastodon
+                  </a>
+                </#if>
+                <#if config.sidebar_twitter?has_content && config.sidebar_twitter == "true">
+                <#assign url = "https://twitter.com/" + config.login_twitter>
+                  <a href="${url}" target="_blank" class="list-group-item sidebar-list-item">
+                    <i title="Twitter" class="fab fa-twitter-square fa-2x social-icon"></i> twitter
                   </a>
                 </#if>
               </div>
