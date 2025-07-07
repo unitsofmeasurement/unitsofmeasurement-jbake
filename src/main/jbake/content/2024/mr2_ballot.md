@@ -1,4 +1,4 @@
-title=JSR 385 Maintenance Review Ballot 2
+title=JSR 385 Maintenance Review 2 Ballot
 date=2024-01-08
 type=post
 tags=java, jcp, jsr, mr, maintenance, release
